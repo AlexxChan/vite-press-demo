@@ -2,8 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+
+  base: '/docs/',
   title: "LegoCms",
   description: "测试一下222",
+  outDir: '../public',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
