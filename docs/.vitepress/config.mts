@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
-  base: '/docs/',
+  base: '/vite-press-demo/',
   title: "LegoCms",
   description: "测试一下222",
   outDir: '../public',
