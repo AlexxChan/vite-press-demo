@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/vite-press-demo/',
   title: "LegoCms",
   description: "测试一下222",
-  outDir: '../public',
+  // outDir: '../public',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
